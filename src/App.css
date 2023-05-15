@@ -1,8 +1,8 @@
 .App .container{
-  text-align: center;
+ 
   margin: 40px;
   padding: 20px;
-  background-color: lightskyblue;
+  background-color: rgb(182, 217, 238);
 }
 
 .App-header {
