@@ -14,8 +14,8 @@ export default function App() {
 
       </header>
       <footer className="footer"><small>
-        Coded by Courtney Perry<br /> and is open-sourced on 
-        <a href="https://github.com/cnjperrys/react-app-dictionary">Github</a></small>
+        Coded by <a href="courtneyjperry.com" target="_blank" rel="noreferrer">Courtney J. Perry</a> and is open-sourced on 
+        <a href="https://github.com/cnjperrys/react-app-dictionary"> Github</a></small>
       </footer>
       </div>
     </div>
