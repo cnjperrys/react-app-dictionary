@@ -1,5 +1,8 @@
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .App .container{
- 
   margin: 40px;
   padding: 20px;
   background-color: rgb(182, 217, 238);
